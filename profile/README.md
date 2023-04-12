@@ -1,7 +1,9 @@
-## Hi there 👋
+## 모두들 와주셔서 감사해요 👋
+
+<img src="https://user-images.githubusercontent.com/52487610/231492469-5130a587-cd42-4113-9ec7-c7c99b64fe06.jpeg">
+
 
 <!--
-안뇽
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
